@@ -23,7 +23,7 @@ For more information on this awesome dataset, check out [the palmerpenguins repo
 ## Exercises
 
 Each of the following chapters will have multiple exercises to let you practice with the functions we introduce.
-Through these exercises, we will move a data frame through the different steps in a data science workflow.
+Through these exercises, we will move a dataset through the different steps in a data science workflow.
 This means that often the results of one step will be the input for the next.
 If this is the case, the exercise will get a label: REQUIRED.
 Make sure you complete this exercise successfully, or you will not be able to proceed to the next theme.
