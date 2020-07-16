@@ -1,0 +1,7 @@
+﻿Plant_number,Treatment,Stem length day 1,Leaf width day 1,Stem length day 2,Leaf width day 2,Stem length day 3,Leaf width day 3
+A1_14,control,120,21,122,23,124,25
+A1_18,control,132,23,135,25,138,27
+A1_21,control,131,18,133,20,135,21
+A2_09,UV,109,29,114,31,115,31
+A3_02,UV,125,25,127,27,129,28
+A3_10,UV,130,12,133,14,136,16
