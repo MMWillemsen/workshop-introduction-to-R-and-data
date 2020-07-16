@@ -18,12 +18,17 @@ library(tidyverse)
 
 # Data science workflow
 
-<!-- Going from A to B to C with data; image by Allison-->
+
 
 ---
 # Data science with Tidyverse
 
 <!-- packgaes for every step-->
+
+---
+# What is a package?
+
+<!-- and how to load it-->
 
 ---
 # Meet the data
@@ -32,27 +37,44 @@ library(tidyverse)
 <!-- penguins by Allison -->
 
 ---
-# Reading data
+# Import data
 
 
 <!-- load raw data -->
+
+---
+# Tibble v dataframe
+
+
+---
+# Subsetting data
+
+
+---
+# Make a workflow with `%>%`
+
+
+---
+# Add data
+
+<!-- mutate -->
 
 ---
 # Tidy data
 
 
-<!-- load raw data -->
+<!-- pivot long and wide -->
 
 ---
-# Reading data
+# Summarizing data
 
 
-<!-- load raw data -->
+<!-- group and summary -->
 
 ---
-# Reading data
+# Visualizing data
 
 
-<!-- load raw data -->
+<!-- ggplot -->
 
 ---
