@@ -15,7 +15,35 @@ output:
 options(htmltools.dir.version = FALSE)
 library(tidyverse)
 ```
+class: subheader, middle, center
+# Welcome back!
 
+### Data science with Tidyverse
+
+---
+# This afternoon's schedule
+
+- &nbsp; 13:30 &nbsp; Introduction to Tidyverse & Importing data
+
+- 13:45 &nbsp; Exercises 1-4
+
+- 14:15 &nbsp; Subsetting and mutating data
+
+- 14:30 &nbsp; Exercises 5-8
+
+- 15:00 &nbsp; Coffee break
+
+- 15:15 &nbsp; Transformations and tidy data
+
+- 15:30 &nbsp; Exercises 9-12
+
+- 16:00 &nbsp; Data visualization
+
+- 16:15	&nbsp; Exercises 13-15
+
+- 17:00 &nbps; Final recap and closing
+
+---
 # Data science workflow
 
 
